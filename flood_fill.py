@@ -1,5 +1,8 @@
 from typing import List
 
+""" Hey Darius! great work, really like that we are collaborating in person too :D!"""
+
+
 board = [
     "......................",
     "......##########......",
